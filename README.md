@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Cái này là cái gì 
+👀 Ghi chép các từ Viết tắt 👀 
+Các ghi chép chủ yếu bên lĩnh vực máy tính
 
 <!---
 murtmeiv/murtmeiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
