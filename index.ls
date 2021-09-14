@@ -6,4 +6,10 @@ CPPC    :Collaborative Processor Performance Control
 VPD     :Vital Product Data 
 GHCB    :Guest-HypervisorCommunication Block
 VBS     :Virtualization-based security 
+GPA     :guest physical address
+RDMA    :Remote Direct Memory Access 
+
+
+
+
 
