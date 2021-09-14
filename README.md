@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-👀 Ghi chép các từ Viết tắt 👀 
-Các ghi chép chủ yếu bên lĩnh vực máy tính
+👀 Ghi chép các từ Viết tắt 👀 \n
+✨ Các ghi chép chủ yếu bên lĩnh vực máy tính ✨\n
+Bạn hãy đọc các tệp index.xx\n
 
 <!---
 murtmeiv/murtmeiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
